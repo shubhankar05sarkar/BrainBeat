@@ -1,4 +1,7 @@
 # BrainBeat
+
+### Live Demo: [Open BrainBeat](https://brainbeat.streamlit.app/)
+
 ## Multimodal EEG–ECG Seizure Onset Detection Using Decision-Level Fusion
 
 BrainBeat is a multimodal machine learning system designed for seizure onset detection using two physiological signal modalities: EEG (Electroencephalography) and ECG (Electrocardiography).
